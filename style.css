@@ -80,7 +80,7 @@ transform: translateY(-50%);
     }
     section.descricao h2{
         color: #119292;
-        font-size: 46px;
+        font-size: 80px;
     }
     section.descricao h2 > spam,
     section.descricao h3 > spam{
@@ -90,7 +90,7 @@ transform: translateY(-50%);
     section.descricao h3{
         margin: 15px 0;
         color:#004A4A;
-        font-size: 26px;
+        font-size: 30px;
     }
     section.descricao p {
 
@@ -110,7 +110,8 @@ width: 40px;
 height:40px ;
 border-radius: 20px;
 display: inline block;
-margin: 0 10px;
+margin: 10px ;
 text-align: center;
+
 
     }
