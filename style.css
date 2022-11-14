@@ -82,10 +82,10 @@ width: 130px;
 .menu a:hover{
     color: #b0c4c1;
 border: 0.2px solid rgb(53, 51, 82);
-background-color: #0e4cbe80;
+background-color: #71a8a480;
 border-radius: 10px 10px;
 transform: translate(35px,0px);
-transition-duration: 0.5s ;
+transition-duration: 1s ;
 font-style: italic;
 
 
@@ -95,8 +95,14 @@ font-style: italic;
 
     color: white;
     opacity: 1;
+    font-style: normal;
     
     }
+    .menu a.selected:hover{
+        transform: translate(20px,0px);
+        transition-duration: 2s;
+    }
+    
     .content{
         position: absolute;
         left: 20%;
