@@ -15,22 +15,18 @@ html,body{
 
     width: 100%;
     height: 100vh;
-    background-image: linear-gradient(rgba(0,0,0,0.3),transparent),url(../imagem/pexels-mudassir-ali-2680270.jpg);
-    background-size: cover;
-    background-position: center;
-    padding: 0 7%;
-    position: relative;
-
+    background-color: #1F3300;
+  
 }
 h1,h2{
     text-align: center;
-    color: azure;
+    color: black;
     margin-top: 10px;
 }
 .text{
 
 font-size: 20px;
-color: white;
+color: black;
 margin-top: 100px;
 text-align: left;
 margin-inline: 6px;
@@ -39,13 +35,13 @@ margin-inline: 6px;
 .gith img{
 width: 50px;
 height: 50px;
-margin: -20px 500px;
+margin: -20px 700px;
 
 
 }
 .gith p{
-margin: -20px 0px;
-color: white;
+margin: -20px 230px;
+color: black;
 }
 .gith a{
 
@@ -54,14 +50,15 @@ display: inline-block;
 }
 .gith a:hover{
     transform: translate(-6px,-6px);
-    transition-duration: 0.5s;
+    transition-duration: 1s;
 }
 
 
 .volt a {
-    color: white;
+    color: black;
     display: inline-block;
     padding-top: 30px;
+    margin: -20px 100px;
 }
 .volt a:hover{
     transform: translate(-3px,-3px);
