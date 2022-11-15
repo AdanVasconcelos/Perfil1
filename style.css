@@ -1,15 +1,19 @@
-*{
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+   *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: 'Saira Extra Condensed', sans-serif;
-}
+
+
+
+   } 
 
 .parent{
     
     width: 100%;
     height: 200vh;
-    background-image: linear-gradient(rgba(0,0,0,0.3),transparent),url(imagem/pexels-bob-ward-3347244.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.3),transparent),url(imagem/pexels-mudassir-ali-2680270.jpg);
     background-size: cover;
     background-position: center;
     padding: 0 7%;
@@ -20,7 +24,7 @@
     width: 20%;
     height: 100%;
     position: fixed;
-    background-color: #340016;
+    background-color: #1a1797c0;
 }
 
 .sidebar-pos{
@@ -36,7 +40,7 @@
 
 .img-sidebar img {
     width: 70%;
-    border: 5px solid #64082f;
+    border: 5px solid #09083f86;
     border-radius: 50%;
 }
 
@@ -63,7 +67,7 @@
     background-color: #71a8a480;
     border-radius: 10px 10px;
     transform: translate(35px,0px);
-    transition-duration: 1s ;
+    transition-duration: 0.3s ;
     font-style: italic;
 }
 
@@ -76,7 +80,7 @@
 
 .menu a.selected:hover{
         transform: translate(20px,0px);
-        transition-duration: 2s;
+        transition-duration: 0.5s;
     }
     
 .content{
@@ -96,18 +100,21 @@ section.descricao{
         
     }
 section.descricao h2{
-        color: #008006;
+        color: #031104;
         font-size: 80px;
+        font-family: 'Great Vibes', cursive,Arial, Helvetica, sans-serif;
     }
 section.descricao h2 > spam,
 section.descricao h3 > spam{
-        color: #3c613d;
+        color: #020e03;
+        font-family: 'Great Vibes', cursive,Arial, Helvetica, sans-serif;
     }
 
 section.descricao h3{
         margin: 15px 0;
         color:#ccbb6e;
         font-size: 30px;
+        font-style: italic;
     }
 
 section.descricao h3 > a{
