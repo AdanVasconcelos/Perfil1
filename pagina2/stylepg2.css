@@ -13,15 +13,21 @@
 
 html,body{
 
-    width: 100%;
-    height: 100vh;
+    
     background-color: #1F3300;
   
 }
 h1,h2{
     text-align: center;
     color: black;
-    margin-top: 10px;
+    margin-top: 30px;
+   
+}
+section{
+  transform: translateY(-10%);
+
+
+
 }
 .text{
 
@@ -32,27 +38,38 @@ text-align: left;
 margin-inline: 6px;
 }
 
+
 .gith img{
 width: 50px;
 height: 50px;
-margin: -20px 700px;
+margin: -20px 1230px;
+
+
+
 
 
 }
 .gith p{
 margin: -20px 230px;
 color: black;
+text-align: end;
+
+
 }
 .gith a{
 
 display: inline-block;
+
+
 
 }
 .gith a:hover{
     transform: translate(-6px,-6px);
     transition-duration: 1s;
 }
-
+.volt{
+    width: 1200px;
+}
 
 .volt a {
     color: black;
