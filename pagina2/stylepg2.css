@@ -13,7 +13,7 @@
 
 html,body{
 
-    
+   
     background-color: #1F3300;
   
 }
@@ -24,25 +24,40 @@ h1,h2{
    
 }
 section{
-  transform: translateY(-10%);
-
-
+    
+    width: 100%;
+ 
 
 }
 .text{
 
-font-size: 20px;
+font-size: 15px;
 color: black;
-margin-top: 100px;
-text-align: left;
-margin-inline: 6px;
+
+
+
+
+
+
+
+}
+.text h2 p{
+
+width: 100%;
+
+
+
+}
+.gith{
+    width: 1000px;
 }
 
 
 .gith img{
 width: 50px;
 height: 50px;
-margin: -20px 1230px;
+margin: 10px 170px;
+
 
 
 
@@ -50,9 +65,10 @@ margin: -20px 1230px;
 
 }
 .gith p{
-margin: -20px 230px;
-color: black;
-text-align: end;
+    padding-top: 60px;
+    margin: 80px 40px;
+    color: black;
+
 
 
 }
@@ -68,14 +84,16 @@ display: inline-block;
     transition-duration: 1s;
 }
 .volt{
-    width: 1200px;
+    padding-top: 40px;
+    
 }
 
 .volt a {
     color: black;
     display: inline-block;
-    padding-top: 30px;
-    margin: -20px 100px;
+    padding-top: 20px;
+    margin: -20px 30px;
+    
 }
 .volt a:hover{
     transform: translate(-3px,-3px);
