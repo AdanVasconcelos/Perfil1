@@ -23,34 +23,7 @@ body h1{
     color: rgb(185, 178, 79);
     text-shadow: 3px 2px 0px rgba(0, 0, 0, 0.705);
 }
-table{
-border-collapse: collapse;
-width: 600px;
-height: 300px;
-margin-left: 160px;
-text-align: center;
-margin-top: 50px;
-box-shadow: 3px 2px 2px rgba(0, 0, 0, 0.61);
 
-
-
-}
-th{
-font-size: 2em;
-background-color: gray;
-border: 3px solid black;
-font-style: italic;
-
-}
-
-td {
-border: 2px solid black;
-text-align: center;
-vertical-align: middle;
-background-color: rgb(216, 205, 106);
-font-size: 15px;
-
-}
 
 
 

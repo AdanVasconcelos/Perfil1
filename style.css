@@ -191,3 +191,7 @@ section.descricao p {
      transform: translate(-4px,-6px);
      transition-duration: 0.5s;
         }
+        #msg{
+            padding-top: 20px;
+            font-size: 20px;
+        }
