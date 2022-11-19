@@ -125,6 +125,7 @@ section.descricao{
         
         
         
+        
        
         
         
@@ -167,6 +168,7 @@ section.descricao p {
         color: black;
         font-size: 22px;
         margin-top: 40px;
+        
     }
 
 .icons-social{
@@ -193,5 +195,5 @@ section.descricao p {
         }
         #msg{
             padding-top: 20px;
-            font-size: 20px;
+            font-size: 30px;
         }
