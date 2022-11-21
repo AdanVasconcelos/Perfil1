@@ -31,15 +31,15 @@ h1,h2{
 section{
     
     width: 100%;
+    padding-top: 60px;
  
 
 }
 .text{
-
 font-size: 15px;
 color: black;
-background-color: rgb(209, 140, 50);
-
+background-color: #263b05;
+padding: 30px 90px;
 
 
 
@@ -47,8 +47,14 @@ background-color: rgb(209, 140, 50);
 
 
 }
+.text h2{
+padding-bottom: 50px;
+
+
+}
 .text h2 p{
-    text-align: center;
+    
+text-align: center;
 position: absolute;
 width: 100%;
 
@@ -94,8 +100,11 @@ display: inline-block;
     transition-duration: 1s;
 }
 .volt{
+    width: 100%;
+    text-align: center;
     padding-top: 40px;
     position: absolute;
+    margin-left: 0px;
     
 }
 
@@ -103,7 +112,11 @@ display: inline-block;
     color: black;
     display: inline-block;
     margin: -20px 30px;
+    opacity: 0.6;
     
+}
+.volt input{
+    font-size: 20px;
 }
 .volt a:hover{
     transform: translate(-3px,-3px);
