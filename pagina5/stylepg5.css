@@ -22,8 +22,8 @@ body h1{
     width: 100%;
     text-align: center;
     padding-top: 50px;
-    font-size: 30px;
-    color: #4e8009;
+    font-size: 40px;
+    color: rgb(111, 141, 62);
     opacity: 0.8;    text-shadow: 3px 2px 0px rgba(0, 0, 0, 0.705);
     
 }
@@ -31,10 +31,16 @@ body ul{
 padding-top: 60px;
 margin-left: 40px;
 text-align: left;
-color: #76b322;
+color: rgb(111, 141, 62);
 font-size: 20px;
 
 
+
+}
+body p{
+color:rgb(111, 141, 62) ;
+margin-left: 20px;
+padding-top: 20px;
 
 }
 

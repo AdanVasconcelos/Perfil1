@@ -17,27 +17,29 @@ html,body{
 
 body h1{
     width: 100%;
-    text-align: center;
+    margin-left: 70px;
+    text-align: left;
     padding-top: 50px;
     font-size: 50px;
     color: #4e8009;
     opacity: 0.8;    text-shadow: 3px 2px 0px rgba(0, 0, 0, 0.705);
     }
 
-    body ol{
-        color: white;
+    body ul{
+        color: rgb(132, 172, 69);
         opacity: 0.6;
         text-align: left;
+        margin-left: 100px;
         margin-top: 40px;
-        padding-left: 210px;
         font-size: 20px;
     }
 
 
 
 .volt{
+    margin-left: 100px;
     margin-top: 150px;
-    text-align: center;
+    text-align: left;
     width: 100%;
     }
 

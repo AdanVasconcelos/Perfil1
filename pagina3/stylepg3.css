@@ -23,7 +23,7 @@ body h1{
     text-align: left;
     padding-top: 50px;
     font-size: 30px;
-    color: #4e8009;
+    color: rgb(111, 141, 62);
     opacity: 0.8;    text-shadow: 3px 2px 0px rgba(0, 0, 0, 0.705);
     
 }
@@ -40,7 +40,7 @@ th{
 font-size: 1.5em;
 background-color: gray;
 border: 3px solid rgb(29, 28, 28);
-color: black;
+color: rgb(32, 41, 18);
 opacity: 0.8;
 
 }
@@ -48,9 +48,9 @@ opacity: 0.8;
 td {
 border: 2px solid rgb(12, 12, 12);
 text-align: center;
-background-color:#273f03 ;
+background-color:#5f7c33 ;
 font-size: 1.2em;
-color: whitesmoke;
+color: rgb(111, 141, 62)ke;
 opacity: 0.6;
 
 }
