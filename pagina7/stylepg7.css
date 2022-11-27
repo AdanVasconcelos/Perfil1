@@ -24,7 +24,7 @@ padding: 2vw 4vw;
 width: 100%;
 max-width: 600px;
 border-radius: 10px;
-margin-left: 400px;
+margin-left: 80px;
 margin-top: 50px;
 
 
@@ -56,6 +56,7 @@ color: rgb(173, 209, 114);
 opacity: 0.6;
 font-size: 18px;
 border: 0;
+
 outline: none;
 cursor: pointer;
 width: 150px;
@@ -65,11 +66,15 @@ border-radius: 30px;
 
 }
 form button:hover{
+    background-color:#293d0e ;
+    color: white;
     border: 1px white
+    
 }
 .volt{
+    margin-left: 55px;
 margin-top: 50px;
-margin-left: -35px;
+text-align: left;
 }
 .volt input{
     font-size: 20px;

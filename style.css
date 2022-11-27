@@ -103,6 +103,7 @@
     color: white;
     font-style: normal;
     font-style: italic;
+    font-size: 26px;
     }
 
 .menu a.selected:hover{
