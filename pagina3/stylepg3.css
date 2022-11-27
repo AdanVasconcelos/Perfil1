@@ -24,8 +24,16 @@ body h1{
     padding-top: 40px;
     font-size: 30px;
     color: rgb(111, 141, 62);
-    opacity: 0.8;    text-shadow: 3px 2px 0px rgba(0, 0, 0, 0.705);
+    opacity: 0.8;    
+    text-shadow: 3px 2px 0px rgba(0, 0, 0, 0.705);
     
+}
+body h2{
+    color:rgb(111, 141, 62) ;
+    margin-left: 40px;
+    opacity: 0.8;    
+    text-shadow: 3px 2px 0px rgba(0, 0, 0, 0.705);
+    font-style: italic;
 }
 table {
 text-align: center;
@@ -50,7 +58,7 @@ td {
 border: 2px solid rgb(12, 12, 12);
 text-align: center;
 background-color:#6d8f3a ;
-font-size: 1.2em;
+font-size: 15px;
 color: rgb(111, 141, 62)ke;
 opacity: 0.6;
 
@@ -60,7 +68,7 @@ opacity: 0.6;
 
 .volt{
     margin-left: 100px;
-    margin-top: 100px;
+    margin-top: 70px;
     text-align: left;
     width: 100%;
     }
