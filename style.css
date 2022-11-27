@@ -25,6 +25,7 @@
     height: 100%;
     position: fixed;
     background-color: #131d05;
+   
     
     
     
@@ -35,10 +36,11 @@
     top: 50%;
     margin: -70px -15px;
     bottom: 50px;
-    left: -25px;
-    transform: translateY(-60%);
+    left: -35px;
+    transform: translateY(-55%);
     width: 20%;
     left: 0px;
+    
     
     
 }
@@ -131,13 +133,15 @@ section.descricao{
         
         
         
+        
        
         
         
     }
 section.descricao h2{
+    
         color: rgb(228, 218, 218);
-        font-size: 5.2em;
+        font-size: 3.2em;
         font-family: 'Great Vibes', cursive,Arial, Helvetica, sans-serif;
         text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.589);
     }
@@ -151,8 +155,9 @@ section.descricao h3{
         margin: 15px 0;
         color:rgb(111, 141, 62);
         opacity: 0.6;
-        font-size: 30px;
+        font-size: 20px;
         font-style: italic;
+        
     }
 
 section.descricao h3 > a{
@@ -172,14 +177,14 @@ section.descricao h3 > a:hover{
 section.descricao p {
 
         color: rgb(111, 141, 62);
-        font-size: 22px;
+        font-size: 15px;
         margin-top: 40px;
         
     }
 
 .icons-social{
 
-        margin-top: 90px;
+        
         
     
 
@@ -200,8 +205,8 @@ section.descricao p {
      transition-duration: 0.5s;
         }
         #msg{
-            padding-top: 20px;
-            font-size: 30px;
+            
+            font-size: 20px;
             color: rgb(111, 141, 62);
             opacity: 0.6;
         }

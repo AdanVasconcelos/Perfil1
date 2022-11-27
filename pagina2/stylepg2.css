@@ -22,7 +22,8 @@ html,body{
 h1,h2{
     text-align: center;
     color: rgb(111, 141, 62);
-    margin-top: 30px;
+    margin-top: 10px;
+    margin-bottom: -40px;
     font-style: italic;
     font-size: 20px;
    
@@ -39,7 +40,7 @@ section{
 font-size: 15px;
 color: rgb(111, 141, 62);
 background-color: #263b05;
-padding: 30px 90px;
+padding: 30px 10px;
 
 
 
@@ -49,6 +50,7 @@ padding: 30px 90px;
 }
 .text h2{
 padding-bottom: 50px;
+margin-top: -10px;
 
 
 }
@@ -71,7 +73,7 @@ width: 100%;
 .gith img{
 width: 50px;
 height: 50px;
-margin: 10px 170px;
+margin: 0px 130px;
 
 
 
@@ -82,7 +84,7 @@ margin: 10px 170px;
 .gith p{
    
    
-    margin: 80px 40px;
+    margin: 20px 50px;
     color: black;
 
 
@@ -101,10 +103,10 @@ display: inline-block;
 }
 .volt{
     width: 100%;
-    text-align: center;
-    padding-top: 40px;
+    text-align: left;
+    padding-top: 20px;
     position: absolute;
-    margin-left: 0px;
+    padding-bottom: 5px;
     
 }
 

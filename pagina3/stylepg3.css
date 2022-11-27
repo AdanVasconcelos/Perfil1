@@ -21,17 +21,18 @@ html,body{
 body h1{
     margin-left: 40px;
     text-align: left;
-    padding-top: 50px;
+    padding-top: 40px;
     font-size: 30px;
     color: rgb(111, 141, 62);
     opacity: 0.8;    text-shadow: 3px 2px 0px rgba(0, 0, 0, 0.705);
     
 }
 table {
-text-align: left;
+text-align: center;
 margin-top: 50px;
-margin-left: 40px;
 height: 300px;
+width: 300px;
+
 
 }
 
