@@ -13,52 +13,30 @@ html,body{
 
    background-color: #1F3300;
    width: 100%;
-   
-   
-  
-}
+   }
 
 body h1{
     width: 100%;
     text-align: center;
     padding-top: 50px;
-    font-size: 30px;
+    font-size: 50px;
     color: #4e8009;
     opacity: 0.8;    text-shadow: 3px 2px 0px rgba(0, 0, 0, 0.705);
-    
-}
-table {
-padding: 70px 300px;
-text-align: center;
-margin-top: 50px;
-margin: 30px -120px ;
+    }
 
-}
-
-
-th{
-font-size: 1.5em;
-background-color: gray;
-border: 3px solid rgb(29, 28, 28);
-color: black;
-opacity: 0.8;
-
-}
-
-td {
-border: 2px solid rgb(12, 12, 12);
-text-align: center;
-background-color:#273f03 ;
-font-size: 17px;
-color: whitesmoke;
-opacity: 0.6;
-
-}
+    body ol{
+        color: white;
+        opacity: 0.6;
+        text-align: left;
+        margin-top: 40px;
+        padding-left: 210px;
+        font-size: 20px;
+    }
 
 
 
 .volt{
-    margin-top: 50px;
+    margin-top: 150px;
     text-align: center;
     width: 100%;
     }
