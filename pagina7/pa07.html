@@ -19,9 +19,9 @@
             </form>
 
         <div class="volt">
-            <a href="/index.html" rel="prev">
+            <a href="/index.html" rel="prev" target="_self">
                 <input type="button" value="Back">
-                <label for="Back"></label>
+                
             
             </a>
         </div>
@@ -30,12 +30,12 @@
     </div>
     
 
-<script src="https://smtpjs.com/v3/smtp.js"></script>
+<script src="https://smtpjs.com/v3/smtp.js" method="POST"></script>
 <script>
 function sendEmail(){
             Email.send({ 
             SecureToken:"e53aaa28-4e01-49aa-8956-3dde20d61a1a",
-            To :'adanrox@hotmail.com',
+            To :'adanrox@gmail.com',
             From : document.getElementById("email").value,
             Subject : "New Contact Form Enquiry",
             Body :"Name: "+ document.getElementById("name").value
